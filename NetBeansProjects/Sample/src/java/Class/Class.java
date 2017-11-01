@@ -10,5 +10,5 @@ package Class;
  * @author fauzianordlund
  */
 public class Class {
-    
+    //dnsjandalsnald
 }
